@@ -1,0 +1,24 @@
+{
+  "name": "CH32V003J4M6_UART",
+  "version": "1.0.0",
+  "description": "UART Library for CH32V003J4M6 microcontroller",
+  "keywords": "uart, ch32v003,CH32V003J4M6, serial, communication",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakir-abdo/CH32V003J4M6-uart.git"
+  },
+  "authors": [
+    {
+      "name": "Shakir Abdo",
+      "email": "shicolare1@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v003",
+  "headers": "uart.h",
+  "dependencies": {
+    "ch32v003fun": "*"
+  }
+}
