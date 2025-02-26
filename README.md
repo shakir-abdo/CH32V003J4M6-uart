@@ -1,5 +1,8 @@
 # CH32V003 UART Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform: CH32V003](https://img.shields.io/badge/Platform-CH32V003-blue.svg)](http://www.wch-ic.com/products/CH32V003.html)
+
 A simple and efficient UART library for CH32V003 microcontroller.
 
 ## Features
